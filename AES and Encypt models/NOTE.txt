@@ -1,0 +1,2 @@
+code nay chưa hoàn chỉnh, sai hàm invertmixcolumn
+code đã đẩy sang ổ C/user/dell/git/aes
